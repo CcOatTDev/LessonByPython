@@ -1,0 +1,2 @@
+# LessonByPython
+ทดลองเขียน Python
